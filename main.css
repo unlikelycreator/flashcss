@@ -1,1 +1,50 @@
+/* Variant 1: Blue Button */
+.btn-blue {
+  background-color: #2196F3;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Variant 2: Green Button */
+.btn-green {
+  background-color: #4CAF50;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Variant 3: Red Button */
+.btn-red {
+  background-color: #F44336;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Variant 4: Orange Button */
+.btn-orange {
+  background-color: #FF9800;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Variant 5: Purple Button */
+.btn-purple {
+  background-color: #9C27B0;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+}
 
