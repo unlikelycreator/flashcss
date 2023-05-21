@@ -1,50 +1,101 @@
+
+
+
+/* CARDS */
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .card {
+    background-color: #ffffff;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin: 10px;
+    max-width: 250px;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+/*All Buttons*/
+
+
 /* Variant 1: Blue Button */
 .btn-blue {
-  background-color: #2196F3;
-  color: #fff;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 4px;
-  cursor: pointer;
-}
+    background-color: #2196F3;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .btn-blue:hover {
+    background-color: #67b8fb;
+    color: black;
+  }
 
-/* Variant 2: Green Button */
-.btn-green {
-  background-color: #4CAF50;
-  color: #fff;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 4px;
-  cursor: pointer;
-}
 
-/* Variant 3: Red Button */
-.btn-red {
-  background-color: #F44336;
-  color: #fff;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-/* Variant 4: Orange Button */
-.btn-orange {
-  background-color: #FF9800;
-  color: #fff;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-/* Variant 5: Purple Button */
-.btn-purple {
-  background-color: #9C27B0;
-  color: #fff;
-  border: none;
-  padding: 10px 20px;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
+  /* Variant 2: Green Button */
+  .btn-green {
+    background-color: #35b839;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .btn-green:hover {
+    background-color: #6cd470;
+  }
+  
+  /* Variant 3: Red Button */
+  .btn-red {
+    background-color: #F44336;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .btn-red:hover {
+    background-color: #f65348;
+  }
+  
+  /* Variant 4: Orange Button */
+  .btn-orange {
+    background-color: #FF9800;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .btn-orange:hover {
+    background-color: #f4a52f;
+  }
+  
+  /* Variant 5: Purple Button */
+  .btn-purple {
+    background-color: #9C27B0;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  .btn-purple:hover {
+    background-color: #b63bcc;
+  }
+  
